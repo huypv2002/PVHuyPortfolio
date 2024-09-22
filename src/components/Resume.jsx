@@ -38,7 +38,7 @@ const Resume = () => {
         stagger: 0.2,
         scrollTrigger: {
             trigger: buttonRef.current, // Trigger animation when the button enters the viewport
-            start: "top 90%", // Adjust this value to control when the animation starts
+            start: "top 100%", // Adjust this value to control when the animation starts
             toggleActions: "play reverse play reverse", // Repeat on scroll
           },
       }
