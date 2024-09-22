@@ -14,7 +14,7 @@ Welcome to my portfolio! This project showcases my work and skills as a develope
 - React
 - GSAP (GreenSock Animation Platform)
 - Tailwind CSS
-- Font Awesome
+- Cloudinary
 
 ## Installation
 
