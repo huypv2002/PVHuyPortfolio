@@ -15,9 +15,3 @@ Welcome to my portfolio! This project showcases my work and skills as a develope
 - GSAP (GreenSock Animation Platform)
 - Tailwind CSS
 - Cloudinary
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Knight9876/Portfolio.git
