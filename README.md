@@ -1,2 +1,23 @@
 # Portfolio
-I build a portfolio for job purposes as I am looking for a job for a Junior Frontend Developer role. Technologies used: React, Tailwind CSS, GSAP, and Cloudinary
+
+Welcome to my portfolio! This project showcases my work and skills as a developer.
+
+## Features
+
+- Responsive design
+- Smooth animations
+- Downloadable resume
+- Interactive elements
+
+## Technologies Used
+
+- React
+- GSAP (GreenSock Animation Platform)
+- Tailwind CSS
+- Font Awesome
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Knight9876/Portfolio.git
