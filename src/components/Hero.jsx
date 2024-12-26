@@ -72,7 +72,7 @@ const Hero = () => {
         >
           <img
             className="rounded-full object-cover aspect-[1/1] w-full max-w-[15rem] sm:max-w-[16rem] md:max-w-[16rem] lg:max-w-[20rem]"
-            src="https://res.cloudinary.com/dlnvozmgw/image/upload/v1726792784/profile_photo_ep3mky.png"
+            src="https://res.cloudinary.com/dlnvozmgw/image/upload/v1735201757/profile_photo_y59bsn.png"
             alt="Yash Kamble - Profile"
             loading="lazy"
           />
