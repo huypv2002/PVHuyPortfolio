@@ -87,6 +87,22 @@ const skills = [
     darkTextColor: "dark:text-gray-200",
      logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1726791975/logo/json_r2cj5b.png",
   },
+  {
+    name: "Java",
+    color: "bg-amber-200",
+    textColor: "text-amber-800",
+    darkBgColor: "dark:bg-amber-600",
+    darkTextColor: "dark:text-amber-200",
+    logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1737047782/java_gyfz9z.png",
+  },
+  {
+    name: "SQL",
+    color: "bg-lime-200",
+    textColor: "text-lime-800",
+    darkBgColor: "dark:bg-lime-600",
+    darkTextColor: "dark:text-lime-200",
+    logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1737047781/sql_zb4hoz.png",
+  }  
 ];
 
 export default skills;
