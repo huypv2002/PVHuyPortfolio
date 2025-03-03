@@ -1,4 +1,4 @@
-import { faLinkedin, faGithub, faXTwitter, faFacebook } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin, faGithub, faFacebook } from "@fortawesome/free-brands-svg-icons";
 
 const socialLinks = [
   {
@@ -14,12 +14,6 @@ const socialLinks = [
     alt: "GitHub",
   },
   
-  // {
-  //   href: "https://x.com/yashkamble008",
-  //   icon: faXTwitter,
-  //   color: "text-gray-900 dark:text-gray-100",
-  //   alt: "X",
-  // },
   {
     href: "https://www.facebook.com/mavanhuy30",
     icon: faFacebook,
