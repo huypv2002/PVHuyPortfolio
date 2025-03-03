@@ -10,7 +10,7 @@ const Resume = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
     link.href = resume;
-    link.download = 'Yash Kamble.pdf'; // Custom file name
+    link.download = 'Pham-Van-Huy-CV.pdf'; // Custom file name
     link.click();
   };
 

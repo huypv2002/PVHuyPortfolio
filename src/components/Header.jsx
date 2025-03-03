@@ -35,7 +35,7 @@ const Header = () => {
               duration={1000}
               className="cursor-pointer"
             >
-              Yash Kamble
+              PHAM VAN HUY
             </Link>
         </div>
 

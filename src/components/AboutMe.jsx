@@ -83,24 +83,7 @@ const AboutMe = () => {
       </div>
       <div ref={aboutRef} className="container mx-auto px-4 text-justify">
         <p className="text-lg mb-6 md:mb-4 ">
-          I'm a frontend developer driven by a passion for crafting engaging and
-          innovative web experiences. My journey in web development began with a
-          fascination for technology and design, and I've since dedicated myself
-          to mastering frontend technologies and creating visually stunning,
-          interactive websites.
-        </p>
-        <p className="text-lg mb-6 md:mb-4 ">
-          I thrive on transforming complex ideas into user-friendly interfaces,
-          leveraging the latest tools and frameworks to bring projects to life.
-          Whether it's implementing smooth animations, optimizing performance,
-          or designing intuitive user interfaces, I'm committed to delivering
-          high-quality results that stand out.
-        </p>
-        <p className="text-lg ">
-          When I'm not coding, you'll find me exploring new tech trends, diving
-          into creative projects, or collaborating with fellow developers. Each
-          day brings a new opportunity to learn and grow, and I'm excited to see
-          where this journey takes me next.
+        Passionate Frontend Developer with 2+ years of experience specializing in Vue.js development. Strong focus on building responsive and user-friendly web applications. Proficient in modern JavaScript frameworks and committed to writing clean, maintainable code. Experienced in collaborating with cross-functional teams to deliver high-quality solutions that meet business requirements and enhance user experience.
         </p>
       </div>
     </div>

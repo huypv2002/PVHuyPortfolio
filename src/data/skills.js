@@ -1,11 +1,11 @@
 const skills = [
   {
-    name: "React",
+    name: "VueJs",
     color: "bg-yellow-200",
     textColor: "text-yellow-800",
     darkBgColor: "dark:bg-yellow-600",
     darkTextColor: "dark:text-yellow-200",
-     logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1726791993/logo/react_sg628z.png",
+     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
   },
   {
     name: "JavaScript",
@@ -32,12 +32,12 @@ const skills = [
      logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1726791947/logo/bootstrap_vstpde.png",
   },
   {
-    name: "GSAP",
+    name: "PHP",
     color: "bg-red-200",
     textColor: "text-red-800",
     darkBgColor: "dark:bg-red-600",
     darkTextColor: "dark:text-red-200",
-    logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1726791965/logo/gsap_vodqc1.png",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLgS1Qr9wvna1_RYOmDH3jjudoSSvwnp560w&s",
   },
   {
     name: "HTML5",
@@ -88,12 +88,12 @@ const skills = [
      logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1726791975/logo/json_r2cj5b.png",
   },
   {
-    name: "Java",
+    name: "Laravel",
     color: "bg-amber-200",
     textColor: "text-amber-800",
     darkBgColor: "dark:bg-amber-600",
     darkTextColor: "dark:text-amber-200",
-    logo: "https://res.cloudinary.com/dlnvozmgw/image/upload/v1737047782/java_gyfz9z.png",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png",
   },
   {
     name: "SQL",
