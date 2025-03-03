@@ -72,8 +72,8 @@ const Hero = () => {
         >
           <img
             className="rounded-full object-cover aspect-[1/1] w-full max-w-[15rem] sm:max-w-[16rem] md:max-w-[16rem] lg:max-w-[20rem]"
-            src="https://res.cloudinary.com/dlnvozmgw/image/upload/v1735201757/profile_photo_y59bsn.png"
-            alt="Yash Kamble - Profile"
+            src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t39.30808-6/481466288_1746748515901238_8888791767678116362_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tblpjilrz38Q7kNvgHv83sz&_nc_oc=AdhWxBtwSY0GGL4tSKuEvflz5drn1DdI0faSca6n2UoWhxhr4hbP7zZXkl4bcL-DW-c&_nc_zt=23&_nc_ht=scontent.fsgn5-1.fna&_nc_gid=ALx1fgfhnETw_3ZyueSpR5L&oh=00_AYDGKQ_gL8ZPhGgUEbgcojfze43uGv3gdIEuZ0ms6a5IVw&oe=67C75283"
+            alt="PHAM VAN HUY - Profile"
             loading="lazy"
           />
         </div>
@@ -81,10 +81,10 @@ const Hero = () => {
         {/* About Text */}
         <div ref={textRef} className="flex flex-col gap-3">
           <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold transition-colors duration-500 dark:drop-shadow-customPurpleDropShadow">
-            Yash Kamble
+            PHAM VAN HUY
           </h1>
           <p className="text-xl sm:text-2xl transition-colors duration-500 dark:drop-shadow-customPurpleDropShadow">
-            Aspiring Frontend Developer
+             Frontend Vuejs Developer
           </p>
 
           {/* Buttons */}

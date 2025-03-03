@@ -56,15 +56,6 @@ const ProjectCard = ({ project, index, addToRefs, settings }) => (
         >
           Live Link
         </a>{" "}
-        |
-        <a
-          href={project.githubLink}
-          className="text-blue-600 dark:text-blue-400 ml-2"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GitHub Repository
-        </a>
       </p>
     </div>
   </div>

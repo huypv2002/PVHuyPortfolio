@@ -146,11 +146,11 @@ const Contact = () => {
 
         {/* Email Contact */}
         <a
-          href="mailto:yashkamble824@gmail.com"
+          href="mailto:huy.nguyen.hytek@gmail.com"
           ref={emailRef}
           className="block text-xl font-semibold text-purple-600 dark:text-purple-400 hover:underline mb-4 transition-transform transform hover:scale-105"
         >
-          Email: yashkamble824@gmail.com
+          Email: huy.nguyen.hytek@gmail.com
         </a>
 
         {/* Connect Heading */}
